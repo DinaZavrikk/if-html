@@ -1,0 +1,77 @@
+* {
+  margin: 0px;
+}
+
+.title {
+  display: block;
+  text-align: center;
+  height: 50px;
+  width: 300px;
+  margin: 120px 570px 20px;
+}
+
+hr {
+  display: block;
+  margin: 20px 670px 80px;
+  border: none;
+  background-color: #ee7919;
+  height: 4px;
+  width: 100px;
+}
+
+.imj-support {
+  margin-top: 85px;
+  margin-left: 215px;
+  margin-right: 230px;
+}
+
+.imj-communication {
+  margin-top: 90px;
+  margin-right: 220px;
+}
+.imj-book {
+  margin-top: 95px;
+  margin-right: 215px;
+}
+.imj-reviews {
+  margin-top: 85px;
+  margin-right: 206px;
+}
+
+.txt-offers {
+  padding-bottom: 120px;
+}
+
+.txt-support {
+  display: inline-block;
+  text-align: center;
+  height: 30px;
+  width: 140px;
+  margin-top: 50px;
+  margin-left: 180px;
+  margin-right: 95px;
+}
+.txt-communicate {
+  display: inline-block;
+  text-align: center;
+  height: 30px;
+  width: 295px;
+  margin-top: 55px;
+  margin-right: 80px;
+}
+.txt-book {
+  display: inline-block;
+  text-align: center;
+  height: 30px;
+  width: 170px;
+  margin-top: 65px;
+  margin-right: 115px;
+}
+.txt-reviews {
+  display: inline-block;
+  text-align: center;
+  height: 30px;
+  width: 225px;
+  margin-top: 60px;
+  margin-right: 140px;
+}
