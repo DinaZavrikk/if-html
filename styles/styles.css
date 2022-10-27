@@ -38,11 +38,11 @@ hr {
   margin-right: 206px;
 }
 
-.txt-offers {
+.txt {
   padding-bottom: 120px;
 }
 
-.txt-support {
+.support {
   display: inline-block;
   text-align: center;
   height: 30px;
@@ -51,7 +51,7 @@ hr {
   margin-left: 180px;
   margin-right: 95px;
 }
-.txt-communicate {
+.communicate {
   display: inline-block;
   text-align: center;
   height: 30px;
@@ -59,7 +59,7 @@ hr {
   margin-top: 55px;
   margin-right: 80px;
 }
-.txt-book {
+.book {
   display: inline-block;
   text-align: center;
   height: 30px;
@@ -67,7 +67,7 @@ hr {
   margin-top: 65px;
   margin-right: 115px;
 }
-.txt-reviews {
+.reviews {
   display: inline-block;
   text-align: center;
   height: 30px;
