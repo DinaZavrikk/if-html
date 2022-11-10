@@ -8,70 +8,77 @@
   height: 50px;
   width: 300px;
   margin: 120px 570px 20px;
+  /*margin-top: 120px;*/
+  /*margin-left: 570px;*/
+  /*margin-right: 570px;*/
 }
 
 hr {
   display: block;
-  margin: 20px 670px 80px;
+  /*margin: 20px 670px 80px;*/
+  margin-left: 670px;
+  margin-right: 670px;
   border: none;
   background-color: #ee7919;
   height: 4px;
   width: 100px;
 }
 
-.imj-support {
-  margin-top: 85px;
-  margin-left: 215px;
-  margin-right: 230px;
+.proposes {
+  display: block;
+  height: 260px;
+  width: 1540px;
+  margin-bottom: 120px;
+  /*margin: 120px 570px 20px;*/
 }
 
-.imj-communication {
-  margin-top: 90px;
-  margin-right: 220px;
-}
-.imj-book {
-  margin-top: 95px;
-  margin-right: 215px;
-}
-.imj-reviews {
-  margin-top: 85px;
-  margin-right: 206px;
-}
-
-.txt {
-  padding-bottom: 120px;
-}
-
-.support {
-  display: inline-block;
-  text-align: center;
-  height: 30px;
-  width: 140px;
-  margin-top: 50px;
-  margin-left: 180px;
-  margin-right: 95px;
-}
-.communicate {
-  display: inline-block;
-  text-align: center;
-  height: 30px;
-  width: 295px;
-  margin-top: 55px;
-  margin-right: 80px;
-}
-.book {
-  display: inline-block;
-  text-align: center;
-  height: 30px;
-  width: 170px;
-  margin-top: 65px;
-  margin-right: 115px;
-}
+.support,
+.communicate,
+.book,
 .reviews {
   display: inline-block;
   text-align: center;
-  height: 30px;
+}
+.support img {
+  margin: 80px 115px 50px 215px;
+}
+
+.support p {
+  height: 28px;
+  width: 140px;
+  margin-left: 180px;
+  margin-right: 40px;
+}
+
+.communicate img {
+  margin: 90px 110px 55px 115px;
+}
+
+.communicate p {
+  height: 28px;
+  width: 296px;
+  margin-left: 45px;
+  margin-right: 40px;
+}
+
+.book img {
+  margin: 95px 110px 65px 110px;
+}
+
+.book p {
+  height: 28px;
+  width: 168px;
+  margin-left: 60px;
+  margin-right: 45px;
+}
+
+.reviews img {
+  margin: 85px 205px 60px 110px;
+}
+
+.reviews p {
+  height: 28px;
   width: 225px;
-  margin-top: 60px;
-  margin-right: 140px;
+  margin-left: 55px;
+  margin-right: 130px;
 }
