@@ -1,0 +1,95 @@
+@import url("./fonts.css");
+
+* {
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.advantages,
+.footer {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.title {
+  margin-top: 120px;
+  margin-bottom: 20px;
+  text-align: center;
+  font-family: "Roboto-500", sans-serif;
+  font-size: 40px;
+}
+
+hr {
+  display: block;
+  margin: 20px 670px 0px;
+  border: none;
+  background-color: #f5bd41;
+  height: 4px;
+  width: 100px;
+}
+.proposes {
+  height: 250px;
+  margin-bottom: 120px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.col {
+  justify-content: center;
+  text-align: center;
+}
+
+.proposes-txt {
+  font-family: "Roboto", sans-serif;
+  font-size: 24px;
+}
+.support img {
+  margin-top: 84px;
+  margin-bottom: 52px;
+}
+
+.communicate img {
+  margin-top: 88px;
+  margin-bottom: 56px;
+}
+
+.book img {
+  margin-top: 96px;
+  margin-bottom: 65px;
+}
+
+.reviews img {
+  margin-top: 84px;
+  margin-bottom: 60px;
+}
+
+.footer {
+  height: 625px;
+  background-color: #10367c;
+  padding: 120px 104px;
+}
+
+.container,
+.rights {
+  display: flex;
+  color: #ffffff;
+}
+
+.item {
+  width: 416px;
+  text-align: left;
+  font-size: 20px;
+}
+
+.txt {
+  font-family: "Roboto", sans-serif;
+  margin: 24px 0;
+}
+
+.first-item {
+  font-family: Roboto-500;
+}
+
+.rights {
+  margin-top: 40px;
+}
